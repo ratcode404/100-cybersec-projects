@@ -13,8 +13,8 @@ This is why us, programmers, take action; several of us continually try to prote
 Level 1 | Basic | Example Done
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
 [0] | TCP or UDP server just to receive messages | :heavy_check_mark:
-[1] | TCP chat server | :heavy_check_mark:
-[2] | UDP chat server | :heavy_check_mark:
+[1] | TCP chat server | ✖
+[2] | UDP chat server | ✖
 
 
 ## Disclaimer
