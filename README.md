@@ -13,7 +13,7 @@ This is why us, programmers, take action; several of us continually try to prote
 Level 1 | Basic | Example Done
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
 [1](/projects/1%20TCP%20chat) | TCP chat server | Work in Process
-2 | UDP chat server | 
+2 | UDP chat server | Not started yet
 
 
 ## Disclaimer
