@@ -2,7 +2,7 @@
 
 A work-in-process collection of 100 basic scripts to learn offensive and defensive security, as well the process and basics behind. 
 
-![Screenshot](https://i.imgur.com/m5UJ4Ye.jpeg)
+![Banner](https://i.imgur.com/gZUphfi.png)
 
 ## CyberSec
 Every day professionals and students are learning, creating and exploiting all types of systems. The internet is not only the most common means through which people interact and chat, but also a place where they are constantly exposed to a world where anyone can be monitored, exploited, tracked or scammed.
